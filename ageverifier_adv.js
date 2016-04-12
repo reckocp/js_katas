@@ -10,7 +10,7 @@ var ageVerifier = function (age) {
   }
 };
 
-console.log(ageVerifier([15,25,30]));
+ageVerifier([15,25,30]);
 
 
 /*Why did return not work?
